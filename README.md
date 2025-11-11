@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Rakibul Islam
 
 ## 🚀 About Me
-💻 Full Stack Developer | 🎨 UI/UX Enthusiast | ☁️ Cloud Learner  
+💻 Php Laravel Developer | 🎨 Frontend Enthusiast | ☁️ Cloud Learner  
 
 - 🔭 I’m currently working on **[Project Name or Technology]**  
 - 🌱 I’m currently learning **[Skill or Framework]**  
